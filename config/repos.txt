@@ -1,0 +1,5 @@
+# 每行一个 GitLab 仓路径（group/project@branch）。
+# 分支可选，不写则使用 DEFAULT_BRANCH。
+# GitHub 镜像仓名根据 settings.env 的命名规则生成。
+platform/auth-service@main
+platform/payment-core@release
